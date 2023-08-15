@@ -1,0 +1,53 @@
+.yay{
+    padding-left:100px;
+    padding-right:100px;
+    padding-top: 130px;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:  rgb(8, 8, 8);
+
+}
+.a{
+    border:none;
+    background-color: rgb(15, 15, 15);
+    border-radius: 20px;
+    width:100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    height:40px;
+    color: aliceblue;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.a:hover{
+    background-color: aliceblue;
+    color: black;
+    border:solid;
+}
+.lose{
+    font-weight: bold;
+}
+.win{
+    font-weight:bolder;
+}
+.bay{
+    display: grid;
+    place-items: center;
+    border: solid;
+    background-color: aliceblue;
+
+}
+.boy{
+    height: 40px;
+    font-weight: bold;
+    font-size: larger;
+    color:rgb(12, 29, 23);
+
+}
+.girl{
+    display: grid;
+    row-gap: 20px;
+    height:150px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 30px;
+
+}
